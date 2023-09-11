@@ -15,11 +15,13 @@
 <img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/4.png" alt="We checked the tasks that we completed. Those will be overlined" width="300"/>
 
 5. We have 3 buttons at the top right corner.
-           ⋅⋅1. First: DELETE ALL THE TASKS
-           ⋅⋅2. Second: MOVE THE COMPLETED TASKS TO COMPLETED SECTION
-           ⋅⋅3. Third: SHOW THE COMPLETED SECTION
+   
+           * First: DELETE ALL THE TASKS
+           * Second: MOVE THE COMPLETED TASKS TO COMPLETED SECTION
+           * Third: SHOW THE COMPLETED SECTION
 
 We moved our completed tasks to "completed section".
+
 <img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/5.png" alt="MOVE THE COMPLETED TASKS TO COMPLETED SECTION" width="300"/>
 
 6. Show the completed section.
