@@ -20,10 +20,7 @@
            * Second: MOVE THE COMPLETED TASKS TO COMPLETED SECTION
            * Third: SHOW THE COMPLETED SECTION
 
-We moved our completed tasks to "completed section".
+We moved our completed tasks to "completed section" then opened our completed section.
 
-<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/5.png" alt="MOVE THE COMPLETED TASKS TO COMPLETED SECTION" width="300"/>
+<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/6.png" alt="MOVE THE COMPLETED TASKS TO COMPLETED SECTION" width="300"/>
 
-6. Show the completed section.
-
-<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/6.png" alt="SHOW THE COMPLETED SECTION" width="300"/>
