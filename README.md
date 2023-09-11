@@ -10,6 +10,18 @@
 
 <img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/3.png" alt="We added some tasks for our Task Manager Application" width="300"/>
 
-4. We checked the tasks that we completed. Those will be underlined.
+4. We checked the tasks that we completed. Those will be overlined.
 
-<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/4.png" alt="We checked the tasks that we completed. Those will be underlined." width="300"/>
+<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/4.png" alt="We checked the tasks that we completed. Those will be overlined" width="300"/>
+
+5. We have 3 buttons at the top right corner.
+           ⋅⋅1. First: DELETE ALL THE TASKS
+           ⋅⋅2. Second: MOVE THE COMPLETED TASKS TO COMPLETED SECTION
+           ⋅⋅3. Third: SHOW THE COMPLETED SECTION
+
+We moved our completed tasks to "completed section".
+<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/5.png" alt="MOVE THE COMPLETED TASKS TO COMPLETED SECTION" width="300"/>
+
+6. Show the completed section.
+
+<img src="https://github.com/akkaya1/Task-Manager-App-with-Flutter/blob/main/screenshots/6.png" alt="SHOW THE COMPLETED SECTION" width="300"/>
